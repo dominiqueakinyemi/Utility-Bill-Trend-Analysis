@@ -15,11 +15,11 @@
 
 ### Project Overview
 
-Write here. 
+I live in an apartment building that pools utility usage and charges each resident their share according to a rate based on occupancy. Previous bills have varied greatly, making it difficult to budget each month accurately. This project will use Excel to analyze historical bill statements for trends and predict future bill costs. I will make recommendations for myself and for members of my apartment community to budget for monthly bills and to reduce costs.
 
 ### Data Sources
 
-Write here.
+Data was obtained from billing statements from 9/25/2022 (apartment move-in)to 5/14/2024 (most recent statement period end). The data set contains the following information: statement date, bill period start date, bill period end date, number of billing days in periods, charges for trash, charges for sewer, charges for water, and the rate used for calculations. I created a column to add the specific charges, calculating the total utility bill cost.
 
 ### Tools
 
